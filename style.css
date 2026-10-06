@@ -12,26 +12,3 @@ p {
   color: yellow;
 }
 
-body {
-  background-color: #94D066;
-  border: 6px solid yellow;
-  border-radius: 25px;
-}
-
-marquee {
-  color: yellow;
-}
-body {
-    background-color: aqua;
-    border: 4px solid gray;
-    border-radius: 8px;
-}
-
-ul {
-    list-style-type: none;
-}
-
-li {
-    display: inline;
-    padding: 10px;
-}
