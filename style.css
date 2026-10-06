@@ -21,3 +21,17 @@ body {
 marquee {
   color: yellow;
 }
+body {
+    background-color: aqua;
+    border: 4px solid gray;
+    border-radius: 8px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+    padding: 10px;
+}
